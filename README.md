@@ -1,3 +1,3 @@
 # counter-website
-Layout and functionalities based on https://www.youtube.com/watch?v=3PHXvlpOkf4, with my own implementation.
-MVC design pattern used
+Very simple website created to train JS.  
+Check out the site at: https://mrozelek.github.io/counter-website/
